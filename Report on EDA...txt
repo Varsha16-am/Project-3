@@ -1,0 +1,29 @@
+Introduction: I did an exploratory data analysis (EDA) Project of the Forbes Billionaires dataset from 2022 with python in colab in this
+              report focusing on wealth distribution, age demographics, and industry representation among the world’s   
+              richest individuals.
+EDA:
+     EDA is primarily used to see what data can reveal beyond the formal modelling or hypothesis testing task and 
+     provides a better understanding of data set variables and the relationships between them. It can also help determine if 
+     the statistical techniques you are considering for data analysis are appropriate.
+
+Dataset: The dataset includes key attributes such as name, net worth, age, industry, and country. 
+
+   Data Summary:
+      •	First 5 Rows  : Displayed the names, ages, net worth, and industries of the top individuals.
+      •	Last 5 Rows   : Provided insights into less prominent billionaires.
+      •	Missing Values: Identified no significant missing or duplicate data.
+      •	Shape         : The dataset consists of X rows and Y columns (replace with actual numbers).
+      •	Additional    : I also added some additional counts of different columns.
+                    Visualizations
+     1.	Age Distribution: I visualized the concentration of billionaires in specific age groups.
+     2.	Net worth Frequency: This plot illustrated how many billionaires fall into different net worth ranges.
+     3.	Industry vs. Frequency: I highlighted the industries with the most billionaires.
+     4.	Net Worth by Age and Industry: This visualization showed how net worth varies with age and industry.
+     5.	Top 10 Richest Individuals: I displayed the wealth of the ten richest people.
+     6.	Richest People from India: This identified the wealthiest individuals in India.
+     7.	Young Billionaires: I listed billionaires under 50 years old.
+     8.	Industry Analysis: This showed which industries have the most billionaires.
+
+Conclusion: This EDA provides a comprehensive view of the wealth dynamics among billionaires, highlighting
+            the ultimate factors such as age, industry, and geographic distribution that influence wealth.  
+            Further research could explore trends over time or the impact of global economic shifts on billionaire status.
